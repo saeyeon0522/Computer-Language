@@ -3,7 +3,7 @@
 
 ***********************************
 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="400">
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="300">
 
 
 This module aims to provide a basic understanding of software solutions :
@@ -12,6 +12,8 @@ Their analysis, design, development and implementation including appropriate met
 
 
 ***********************************
+
+<img src="https://velog.velcdn.com/images/codemcd/post/9984153d-1f8f-4133-a688-82b91685e004/intellij_idea_logo.png" width="300">
 
 
 The aims of the module are
