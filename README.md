@@ -3,7 +3,7 @@
 
 ***********************************
 
-<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="300">
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="200">
 
 
 This module aims to provide a basic understanding of software solutions :
