@@ -1,4 +1,15 @@
-#### Computer Language _ JAVA
+###   Computer Language _ JAVA
+
+
+***********************************
+
+
+This module aims to provide a basic understanding of software solutions: their analysis, design, development and implementation including appropriate methodologies and skills in the use of an event driven language for open source development (Java). This module focuses on Object Oriented Programming using Java. 
+
+
+The aims of the module are
+1) to lead student are with a knowledge of the basic program design and implementation;
+2) to equip students with knowledge and skills for the development using IDE; 
 
 
 ***********************************
