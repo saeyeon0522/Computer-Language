@@ -1,4 +1,4 @@
-|Week|Content|Class|Assignment|
+|Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
 | 1 | Introduction to Java | X | O |
 | 2 |	Types | X | X |
