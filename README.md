@@ -1,6 +1,6 @@
 |Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
-| 1 | Introduction to Java (#https://github.com/saeyeonn/Computer-Language/tree/main/01%20Hello%20World%20_%20Assignment)| X | O |
+| 1 | Introduction to Java | X | O (#01 Hello World _ Assignment)|
 | 2 |	Types | X | X |
 | 3 | Basic operators | O | O |
 | 4 |	Conditions & Loop |||
