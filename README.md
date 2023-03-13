@@ -1,5 +1,5 @@
 |Week|Content|Class|Assignment|
-|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 | 1 | Introduction to Java | X | O |
 | 2 |	Types | X | X |
 | 3 | Basic operators | O | O |
