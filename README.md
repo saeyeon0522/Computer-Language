@@ -1,6 +1,4 @@
-##### ITM Junior 1st Semester
-***********************************
-###   Computer Language _ JAVA
+##### ITM Junior 1st Semester   ### Computer Language _ JAVA
 
 
 ***********************************
