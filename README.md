@@ -4,7 +4,8 @@
 ***********************************
 
 
-This module aims to provide a basic understanding of software solutions: their analysis, design, development and implementation including appropriate methodologies and skills in the use of an event driven language for open source development (Java). This module focuses on Object Oriented Programming using Java. 
+This module aims to provide a basic understanding of software solutions:
+Their analysis, design, development and implementation including appropriate methodologies and skills in the use of an event driven language for open source development (Java). This module focuses on Object Oriented Programming using Java. 
 
 
 The aims of the module are
@@ -14,6 +15,8 @@ The aims of the module are
 
 ***********************************
 
+
+#### Syllabus
 
 |Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
