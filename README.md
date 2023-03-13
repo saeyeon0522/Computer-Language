@@ -1,4 +1,4 @@
-### ITM Junior 1st Semester _ Computer Language with JAVA
+### ITM Sophomore 1st Semester _ Computer Language with JAVA
 
 
 ***********************************
