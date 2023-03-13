@@ -1,6 +1,12 @@
+#### Computer Language _ JAVA
+
+
+****************************************
+
+
 |Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
-| 1 | Introduction to Java | X | O |
+| 1 | Introduction to Java | X | [O](https://github.com/saeyeonn/Computer-Language/tree/main/01%20Hello%20World%20_%20Assignment) |
 | 2 |	Types | X | X |
 | 3 | Basic operators | O | O |
 | 4 |	Conditions & Loop |||
