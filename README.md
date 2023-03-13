@@ -3,12 +3,15 @@
 
 ***********************************
 
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="400">
+
 
 This module aims to provide a basic understanding of software solutions :
 
 Their analysis, design, development and implementation including appropriate methodologies and skills in the use of an event driven language for open source development (Java). This module focuses on Object Oriented Programming using Java. 
 
 
+***********************************
 
 
 The aims of the module are
@@ -23,9 +26,9 @@ The aims of the module are
 
 |Week|Content|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|
-| 1 | Introduction to Java | X | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/01%20Hello%20World%20_%20Assignment) |
+| 1 | Introduction to Java | X | [Uploaded](https://github.com/saeyeonn/Computer-Language/tree/main/01%20Hello%20World%20_%20Assignment) |
 | 2 |	Types | X | X |
-| 3 | Basic operators | [Done](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Class) | [Submitted](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Assignment) |
+| 3 | Basic operators | [Uploaded](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Class) | [Uploaded](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Assignment) |
 | 4 |	Conditions & Loop |||
 | 5 |	Reference type |||
 | 6 |	OOP: Class |||
