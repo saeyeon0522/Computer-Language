@@ -29,7 +29,7 @@ The aims of the module are
 |Week|Content|Materials|Notion|Class Practice|Assignment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 1 | Introduction to Java | [Course Overview](https://github.com/saeyeonn/Java_univ/blob/main/Materials/0_Course%20overview.pdf)|X|X| [Assignment1](https://github.com/saeyeonn/Computer-Language/tree/main/01%20Hello%20World%20_%20Assignment) |
-| 2 |	Types | [Variables & Types](https://github.com/saeyeonn/Java_univ/blob/main/Materials/1_Variables%20%26%20Types.pdf) ||
+| 2 |	Chp1_Variable_and_Types.Types | [Chp1_Variable_and_Types.Variables & Chp1_Variable_and_Types.Types](https://github.com/saeyeonn/Java_univ/blob/main/Materials/1_Variables%20%26%20Types.pdf) ||
 | 3 | Basic operators | [Basic Operator](https://github.com/saeyeonn/Java_univ/blob/main/Materials/2_Basic%20operator.pdf) | [Uploaded](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Class) | [Uploaded](https://github.com/saeyeonn/Computer-Language/tree/main/02%20Basic%20Operator%20_%20Assignment) |
 | 4 |	Conditions & Loop | [Reference Type](https://github.com/saeyeonn/Java_univ/blob/main/Materials/4_Reference%20Type.pdf) ||
 | 5 |	Reference type ||[Uploaded](https://github.com/saeyeonn/Java_univ/tree/main/03%20Control%20flow%20and%20Array%20_%20Assignment)|
