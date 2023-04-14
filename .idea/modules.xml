@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Assignment_SourceCode/Assignment_SourceCode.iml" filepath="$PROJECT_DIR$/Assignment_SourceCode/Assignment_SourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Class_Practice/Class_Practice.iml" filepath="$PROJECT_DIR$/Class_Practice/Class_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Computer Language.iml" filepath="$PROJECT_DIR$/.idea/Computer Language.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,13 +1,13 @@
 package Chp2_Basic_Operator;
 
 public class BasicOperator {
-    public static void StringConcatenation() {
+    public static void main(String[] args) {
 
         // 1 of Operands for + Operation = Str
 
         System.out.println("20" + 23); // 2023
         System.out.println(20 + 3); // 23
-        System.out.println("Java "+ 11.0); // Java 11.0
+        System.out.println("Java " + 11.0); // Java 11.0
 
     }
 
@@ -36,8 +36,4 @@ public class BasicOperator {
 
          */
 
-    public static void main(String[] args) {
-
-        StringConcatenation();
-    }
 }

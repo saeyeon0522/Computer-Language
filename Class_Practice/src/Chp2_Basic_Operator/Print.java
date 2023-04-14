@@ -50,7 +50,10 @@ public class Print {
 
         System.out.println("\"\"\"\"\" Methods \"\"\"\"\"");
         Methods();
+        System.out.println();
+
         System.out.println("\"\"\"\"\" Formatting String \"\"\"\"\"");
         FormattingString();
+        System.out.println();
     }
 }

@@ -1,7 +1,7 @@
 package Chp1_Variable_and_Types;
 
 public class AutomaticConversion {
-    public static void Promotion(){
+    public static void main(String[] args) {
 
         /*
         Promotion - Automatic Conversion  :  Smaller -> Larger
@@ -53,12 +53,6 @@ public class AutomaticConversion {
 
         System.out.println(result);
         System.out.println("ㄴtype after only operation : " + result.getClass().getTypeName());
-
-    }
-
-    public static void main(String[] args) {
-
-     Promotion();
 
     }
 }

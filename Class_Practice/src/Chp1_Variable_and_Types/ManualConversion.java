@@ -1,10 +1,11 @@
 package Chp1_Variable_and_Types;
 
 public class ManualConversion {
-    public static void Casting(){
+    public static void main(String[] args) {
 
         /*
-        Larger type -> Smaller type  :  byte -> short -> int -> long -> float -> double
+        Manual Conversion - Casting : Larger type -> Smaller type
+            * byte -> short -> int -> long -> float -> double
 
             1) Done manually by Casting operation '(type)'
             2) May result in Loss of value
@@ -38,13 +39,6 @@ public class ManualConversion {
 
         System.out.println(myInt);
         System.out.println(myChar);
-
-    }
-
-
-    public static void main(String[] args) {
-
-        Casting();
 
     }
 }
