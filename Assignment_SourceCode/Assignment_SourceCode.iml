@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/HW1_Hello_World" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/HW2_Basic_Operator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/HW3_Control_Flow_and_Array" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
