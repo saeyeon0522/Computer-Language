@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3119dd1b-0c1c-4eed-8498-1316fab2d452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment/HW3_Control_Flow_and_Array/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/HW3_Control_Flow_and_Array/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/HW3_Control_Flow_and_Array/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/HW3_Control_Flow_and_Array/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/HW3_Control_Flow_and_Array/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/HW3_Control_Flow_and_Array/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Class/ApplePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Class/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Class/LGPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Class/SamsungPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Interface/MP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Interface/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Interface/MusicPhoneInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final_Class_Source/src/Interface/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/Assignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/Assignment_SourceCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW1_Hello_World/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW2_Basic_Operator/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW2_Basic_Operator/Types.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW2_Basic_Operator/Unicode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW3_Control_Flow_and_Array/question9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/HW4_Class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/HW4_Class.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/Grade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assignment_SourceCode/src/HW4_Class/out/production/HW4_Class/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submit Files/Assignment 01 Hello World.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submit Files/Assignment 02 Basic Operator.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submit Files/Assignment_03 Control flow and Array.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Submit Files/Assignment_04 Class.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PsKxTrn2EoxV9IGWgPS7YKz5ow" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3119dd1b-0c1c-4eed-8498-1316fab2d452" name="Changes" comment="" />
+      <created>1684240597398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684240597398</updated>
+      <workItem from="1684240598548" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
