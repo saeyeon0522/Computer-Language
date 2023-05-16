@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class question6 {
+public class Triangle2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number of rows: ");
@@ -10,7 +10,15 @@ public class question6 {
             return;
         }
         for (int i = num; 0 < i; i--) {
-            for (int j = i; 0 < j; j--) {
+            if (i == num || i <= 2) {
+                for (int j = i; 0 < j; j--) {
+                    System.out.print("*");
+                }
+            } else {
+                System.out.print("*");
+                for (int j = i - 2; 0 < j; j--) {
+                    System.out.print(" ");
+                }
                 System.out.print("*");
             }
             System.out.println();
