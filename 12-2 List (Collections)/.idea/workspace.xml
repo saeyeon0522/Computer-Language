@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e88230ec-991c-424d-acfa-8e0fb4479b7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../05 Class/05 Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-1 Method/06-1 Method.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../06-2 Interitance/06-2 Interitance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-1 Casting/07-1 Casting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07-2 Overriding/07-2 Overriding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-1 Abstract/09-1 Abstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09-2 Interface/09-2 Interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-1 Exception/10-1 Exception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-2 Enumeration/10-2 Enumeration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../10-3 Packages/10-3 Packages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11 StringAPI/11 StringAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee Management System Project/Employee Management System Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee Management System Project/relay1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-2 Collections/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-2 Collections/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-2 Collections/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-2 Collections/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../12-2 Collections/Collections.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/0_Course overview.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/0_Setup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/10_Java packages.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/11_String APIs.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/12_Collections.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/1_Introduction to Java.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/1_Variables &amp; Types.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/2_Basic operator.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/3_Conditions &amp; Loop.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/4_Reference Type.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/5_OOP - Class.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/6_OOP - Method &amp; Inheritance.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/7_OOP - Casting &amp; Overriding.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Class Materials/9_OOP - Abstract class &amp; Interface.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/.idea/aws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/out/production/relay1/employeeTest/EmployeeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/out/production/relay1/menus/MainMenuEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/out/production/relay1/menus/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/out/production/relay1/menus/RegisterMenuEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/out/production/relay1/menus/SearchMenuEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/out/production/relay1/utils/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/relay1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src/employeeTest/EmployeeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src/menus/MainMenuEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src/menus/Menu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src/menus/RegisterMenuEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src/menus/SearchMenuEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src/utils/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project - Employee Management System/src_template.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2TnWIWdyni4FCAvxXuhHJF3Dhzl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e88230ec-991c-424d-acfa-8e0fb4479b7f" name="Changes" comment="" />
+      <created>1691679246840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691679246840</updated>
+      <workItem from="1691679247595" duration="1000" />
+      <workItem from="1691690726322" duration="2148000" />
+      <workItem from="1691694547381" duration="342000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
