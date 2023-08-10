@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3dd4e96-52f7-4f55-8bfa-258df91f9512" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Q3_7_Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/Q3_7_Types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW1 Hello World/Helloworld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2 Basic Operator/Calculate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2 Basic Operator/Types.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW2 Basic Operator/Unicode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/NumComparsion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/Octal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/Random.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/Triangle1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/Triangle2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW3 Control Flow and Array/UpperLower.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4 Class/Grade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4 Class/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW4 Class/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/EqualsEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/InputException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/AbsCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/Bootable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/CalcEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/NormalCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW5 Abstraction and Exception Handling/SimpleCalculator/Refundable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6 String and Collection/CustomerProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6 String and Collection/GradeProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6 String and Collection/TokenOperation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW6 String and Collection/WordCount.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ToITZKaz5fp1SjSs6RD77H0vO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3dd4e96-52f7-4f55-8bfa-258df91f9512" name="Changes" comment="" />
+      <created>1691703017601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691703017601</updated>
+      <workItem from="1691703017604" duration="154000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
